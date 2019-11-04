@@ -1,6 +1,6 @@
 /* Wide */
 
-    @media screen and (min-width: 961px) and (max-width: 1880px) {
+    @media screen and (min-width: 1621px) and (max-width: 1880px) {
 
         /* Basic */
 
@@ -30,7 +30,7 @@
 
 /* Normal */
 
-    @media screen and (min-width: 961px) and (max-width: 1620px) {
+    @media screen and (min-width: 1321px) and (max-width: 1620px) {
 
         /* Main */
 
@@ -46,7 +46,7 @@
 
 /* Narrow */
 
-    @media screen and (min-width: 961px) and (max-width: 1320px) {
+    @media screen and (min-width: 801px) and (max-width: 1320px) {
 
         /* Basic */
 
@@ -117,7 +117,7 @@
         display: none;
     }
 
-    @media screen and (max-width: 960px) {
+    @media screen and (max-width: 800px) {
 
         /* Basic */
 
@@ -172,7 +172,6 @@
                 overflow-y: auto;
                 position: fixed;
                 top: 0;
-                width: 275px;
                 z-index: 10002;
                 width: 275px;
                 background: #222729 url("images/overlay.png");
@@ -304,7 +303,7 @@
 
 /* Mobile */
 
-    @media screen and (max-width: 736px) {
+    @media screen and (max-width: 640px) {
 
         /* Basic */
 

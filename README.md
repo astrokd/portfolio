@@ -22,3 +22,15 @@ Start time: 11:00
 Finish time: 12:07
 
 Actual time needed to complete: 1hr 7 minutes
+
+## Lab 05a: Extend Your Portfolio
+
+Number and name of feature: Feature #1: Add functionality
+
+Estimate of time needed to complete: 1hr
+
+Start time: 8:50
+
+Finish time: _____
+
+Actual time needed to complete: _____
